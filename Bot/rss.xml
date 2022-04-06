@@ -14,7 +14,7 @@
       <title>1 Выпуск</title>
       <description>Шутим!</description>
       <pubDate>Tue, 5 Apr 2022 23:00:00 GMT</pubDate>
-      <enclosure url="https://github.com/JustSonaram/JokesFromBot/raw/audio/number1.mp3"
+      <enclosure url="https://github.com/JustSonaram/JokesFromBot/raw/main/Audio/number1.mp3"
                  type="audio/mpeg" length="34216300"/>
       <itunes:duration>0:37</itunes:duration>
     </item>
