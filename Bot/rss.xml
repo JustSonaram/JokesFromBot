@@ -17,16 +17,14 @@
       <enclosure url="https://github.com/JustSonaram/JokesFromBot/raw/main/Audio/number1.mp3"
                  type="audio/mpeg" length="34216300"/>
       <itunes:duration>0:37</itunes:duration>
-      <guid isPermaLink="false">dzpodtop10</guid>
     </item>
 	<item>
-      <title>1 Выпуск</title>
+      <title>2 Выпуск</title>
       <description>Пробный Выпуск</description>
       <pubDate>Tue, 5 Apr 2022 18:00:00 GMT</pubDate>
       <enclosure url="https://github.com/JustSonaram/JokesFromBot/raw/main/Audio/number2.mp3"
                  type="audio/mpeg" length="34216300"/>
       <itunes:duration>0:44</itunes:duration>
-      <guid isPermaLink="false">dsfgdgew12</guid>
     </item>
   </channel>
 </rss>
